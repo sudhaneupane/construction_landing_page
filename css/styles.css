@@ -925,9 +925,10 @@ footer {
 .social {
   padding: 20px 0;
 }
-.social-icons {
+.social-icons ul {
   display: flex;
   padding: 5px 0;
+  gap: 14px;
 }
 
 .copyright {
